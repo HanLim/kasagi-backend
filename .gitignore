@@ -1,0 +1,43 @@
+# Django
+*.pyc
+__pycache__/
+db.sqlite3
+*.sqlite3
+*.log
+*.pot
+*.py[cod]
+*.swp
+*.swo
+*.bak
+*.tmp
+*.orig
+*.DS_Store
+.env
+.env.*
+venv/
+ENV/
+env/
+.idea/
+.vscode/
+*.egg-info/
+dist/
+build/
+staticfiles/
+media/
+.coverage
+htmlcov/
+.tox/
+.mypy_cache/
+.pytest_cache/
+celerybeat-schedule
+celerybeat.pid
+
+# System
+Thumbs.db
+.DS_Store
+
+# VSCode
+.vscode/
+
+.venv
+.github/
