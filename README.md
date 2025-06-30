@@ -45,6 +45,21 @@ This prototype is implemented in Django as a monolith for rapid prototyping. How
 
 ---
 
+**Diagrams**
+
+- Monolith Architecture:
+  ![Monolith Architecture](architecture-diagram/monolith-architecture.png)
+
+---
+- Distributed Architecture:
+  ![Distributed Architecture](architecture-diagram/distributed-architecture.png)
+
+---
+- Microservices Architecture:
+  ![Microservices Architecture](architecture-diagram/microservices-architecture.png)
+
+---
+
 ## Discussion / Justification
 
 
@@ -142,5 +157,3 @@ This prototype is implemented in Django as a monolith for rapid prototyping. How
 
 ## Final Verdict
 TBD
-
-todo: add diagrams
